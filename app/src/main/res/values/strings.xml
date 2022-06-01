@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">zakatGold</string>
+    <string name="about_text">About zakatGold</string>
+    <string name="about_desc">This app is developed by UiTM Perlis student for estimating zakat payment for gold keeping.</string>
+    <string name="dev_text">Developer Team</string>
+    <string name="copyright">Copyright Ⓒ  2022,The Zakat Gold Inc.All rights reserved</string>
+    <string name="home_text">Developer Team</string>
+    <string name="type">(keep = 85g, wear = 200g)</string>
+    <string name="mainInfo">Zakat is required when a particular quantity of money, known as the nisab, is achieved or surpassed.</string>
+    <string name="mainInfo1">One of the five pillars of Islam is the payment of Zakat. It is a charitable donation that every adult, mentally competent, and financially capable Muslim can make to help people in need.</string>
+    <string name="abZ">Zakat Gold is a mobile application that can be used to calculate gold that users keep on them.
+        The objective of our application is to make it easier for users to calculate their zakat to pay for their gold.
+        Our easy-to-use calculator will take the guesswork out of calculating your Zakat payment.
+        You can easily determine how much you need to contribute if you have information on all of your assets.</string>
+    <string name="abDev">
+        1.NAME : NUREZZATUL HUSNA BINTI ISMAIL \n
+        MATRICS  NO : 2021119877 \n
+        CLASS : RCS 2405A \n
+        POSITION : IOS MOBILE DEVELOPER \n
+        PROGRAM CODE : CS240 \n
+        \n\n
+
+        2.NAME : NUR IZZAT HAKIM BIN NORAZAM \n
+        MATRICS NO : 2021102563 \n
+        CLASS : RCS 2405A \n
+        POSITION : ANDROID MOBILE DEVELOPER \n
+        PROGRAM CODE : CS240
+        </string>
+
+    <string name="link"> Visit our gitHub! \n
+        https://github.com/IzzatHakim/IzzatHakim-Nurezzatul-ZakatGold</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
